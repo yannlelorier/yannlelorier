@@ -1,4 +1,7 @@
-### Hi there 👋
+### Yann Le Lorier
+
+- Currently student @ Tecnológico de Monterrey
+- Currently learning Three.js library
 
 <!--
 **yannlelorier/yannlelorier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
