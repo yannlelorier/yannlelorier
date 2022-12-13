@@ -3,4 +3,4 @@
 - Currently learning Three.js library
 - Into maps, geomatics and language
 - SWE @Odoo MX
-- Street photography page: [Unfinished Beings](unfinishedbeings.myportfolio.com).
+- Street photography page: [Unfinished Beings](https://unfinishedbeings.myportfolio.com).
